@@ -20,6 +20,13 @@ Cyclone Amphan was a powerful tropical cyclone in the Bay of Bengal in May 2020.
 - `amphantrack2.ipynb` → cyclone track analysis notebook
 - `cyclone_track.png` → visualization output
 
-## Author
+## Chlorophyll Analysis
 
-Grace
+This section shows the spatial distribution of chlorophyll concentration during Cyclone Amphan using satellite data.
+
+![Chlorophyll Map](Chlorophyll_map.png)
+
+### Files
+
+- `Chlorophyll_map.ipynb` → chlorophyll analysis notebook
+- `Chlorophyll_map.png` → visualization output
