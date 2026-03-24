@@ -1,7 +1,25 @@
 # Cyclone Amphan (2020) - Bay of Bengal Analysis
 
-This project presents a remote sensing analysis of Cyclone Amphan (May 2020) using satellite-derived data.
+This project presents a remote sensing analysis of Cyclone Amphan (May 2020) using satellite and observational data.
+
+## Overview
+
+Cyclone Amphan was a powerful tropical cyclone in the Bay of Bengal in May 2020. This project visualizes its track and analyzes ocean response using satellite-derived variables.
 
 ## Cyclone Track Visualization
 
 ![Cyclone Track](cyclone_track.png)
+
+## Methods
+
+- Cyclone track data obtained from NOAA
+- Python used for visualization and analysis
+
+## Files
+
+- `amphantrack2.ipynb` → cyclone track analysis notebook
+- `cyclone_track.png` → visualization output
+
+## Author
+
+Grace
