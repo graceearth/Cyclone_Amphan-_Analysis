@@ -38,11 +38,9 @@ This section shows the spatial distribution of chlorophyll concentration during 
 - `Chlorophyll_map.ipynb` → chlorophyll analysis notebook
 - `Chlorophyll_map.png` → visualization output
 
-- ---
-
 ---
 
-## Sea Surface Temperature (SST) Analysis
+## Sea Surface Temperature (SST) Anomalies
 
 This section analyzes Sea Surface Temperature (SST) anomalies before, during, and after Cyclone Amphan using CMEMS satellite-derived data.
 
